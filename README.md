@@ -1,1 +1,1 @@
-# positive-petals
+# positive-petals college project
